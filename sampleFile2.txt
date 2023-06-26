@@ -1,1 +1,2 @@
 This is sample file 2 from Develop branch
+Normal testing in sample file 2
