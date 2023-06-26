@@ -1,2 +1,6 @@
 This is sample file 2 from Develop branch
+<<<<<<< Updated upstream
 Normal testing in sample file 2
+=======
+Stash testing in sample file 2
+>>>>>>> Stashed changes
